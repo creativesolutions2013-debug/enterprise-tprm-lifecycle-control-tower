@@ -2,6 +2,18 @@
 
 [![TPRM Control Tower Tests](https://github.com/creativesolutions2013-debug/enterprise-tprm-lifecycle-control-tower/actions/workflows/control-tower-tests.yml/badge.svg)](https://github.com/creativesolutions2013-debug/enterprise-tprm-lifecycle-control-tower/actions/workflows/control-tower-tests.yml)
 
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://enterprise-tprm-control-tower.streamlit.app/)
+
+## Try the Live Demo
+
+Explore the complete risk-based third-party lifecycle using fictional vendor scenarios:
+
+**[Launch the Enterprise TPRM Lifecycle Control Tower](https://enterprise-tprm-control-tower.streamlit.app/)**
+
+The dashboard demonstrates portfolio risk reporting, vendor tiering, due-diligence gates, lifecycle ownership, remediation tracking, contractual accountability, continuous monitoring, and human risk-decision boundaries.
+
+> Use fictional or synthetic information only. Do not submit actual vendor evidence, personal information, credentials, or confidential employer documentation.
+
 A portfolio demonstration of a scalable, risk-based third-party risk management program covering the complete vendor lifecycle.
 
 This project shows how I approach third-party governance strategically and hands-on: establishing control baselines, tiering vendors by inherent risk, scaling due diligence, enforcing decision gates, tracking remediation, monitoring material changes, and preserving accountable human oversight.
@@ -213,14 +225,3 @@ This project demonstrates practical capability in:
 - Automating repeatable governance workflows
 - Maintaining human oversight over consequential decisions
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://enterprise-tprm-control-tower.streamlit.app/)
-
-## Try the Live Demo
-
-Explore the complete risk-based third-party lifecycle using fictional vendor scenarios:
-
-**[Launch the Enterprise TPRM Lifecycle Control Tower](https://enterprise-tprm-control-tower.streamlit.app/)**
-
-The dashboard demonstrates portfolio risk reporting, vendor tiering, due-diligence gates, lifecycle ownership, remediation tracking, contractual accountability, continuous monitoring, and human risk-decision boundaries.
-
-> Use fictional or synthetic information only. Do not submit actual vendor evidence, personal information, credentials, or confidential employer documentation.
