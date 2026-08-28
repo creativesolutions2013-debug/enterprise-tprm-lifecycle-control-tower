@@ -212,3 +212,15 @@ This project demonstrates practical capability in:
 - Managing remediation and continuous monitoring
 - Automating repeatable governance workflows
 - Maintaining human oversight over consequential decisions
+
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://enterprise-tprm-control-tower.streamlit.app/)
+
+## Try the Live Demo
+
+Explore the complete risk-based third-party lifecycle using fictional vendor scenarios:
+
+**[Launch the Enterprise TPRM Lifecycle Control Tower](https://enterprise-tprm-control-tower.streamlit.app/)**
+
+The dashboard demonstrates portfolio risk reporting, vendor tiering, due-diligence gates, lifecycle ownership, remediation tracking, contractual accountability, continuous monitoring, and human risk-decision boundaries.
+
+> Use fictional or synthetic information only. Do not submit actual vendor evidence, personal information, credentials, or confidential employer documentation.
