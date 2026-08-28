@@ -35,7 +35,7 @@ jobs:
           python -m py_compile controls.py
           python -m py_compile lifecycle.py
           python -m py_compile reporting.py
-
+          python -m py_compile web_app.py
       - name: Validate synthetic JSON data
         run: |
           python -m json.tool data/vendor_scenarios.json > /dev/null
